@@ -32,7 +32,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    Toni Production Test Task
+                    Toni Development Test Task
                 </a>
             </div>
 
