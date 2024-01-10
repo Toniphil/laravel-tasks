@@ -22,6 +22,7 @@ jobs:
     - name: 'Run Azure CLI commands'
       run: |
           az account show
-          az group list
+          #az group list
           az account set -s d299a8ca-cea8-4938-a095-3ecc7c4baa9a
           pwd
+          az account show
